@@ -1,0 +1,10 @@
+h1 {
+  color: rgb(62, 94, 212);
+  font-size: 4em;
+  font-weight: 900; /* This is the maximum weight */
+  text-align: center;
+  margin-top: 0;
+}
+svg {
+  font-size: 100px;
+}
